@@ -10,16 +10,21 @@ nav > ul {
 
 nav > ul > li {
   float: left;
-  margin-right: 20px;
   transition: 0.75s;
+  padding: 20px;
 }
 
 nav > ul > li > a {
   text-decoration: none;
   color: black;
+
 }
 
-nav > ul > li:hover {
-  background-color: black; 
+nav > ul > li:not(.nicht-animieren):hover {
+  background-color: lightslategray; 
   color:white;
 } 
+
+body {
+  margin: 0;
+}
