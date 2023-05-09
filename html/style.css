@@ -11,9 +11,15 @@ nav > ul {
 nav > ul > li {
   float: left;
   margin-right: 20px;
+  transition: 0.75s;
 }
 
 nav > ul > li > a {
   text-decoration: none;
   color: black;
 }
+
+nav > ul > li:hover {
+  background-color: black; 
+  color:white;
+} 
