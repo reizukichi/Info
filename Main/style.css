@@ -19,7 +19,7 @@ nav > ul > li {
 
 nav > ul > li > a {
   text-decoration: none;
-  color: black;
+  color:	#c7d5e0;
 
 }
 
@@ -65,7 +65,7 @@ button {
   justify-content: center;
 }
 .topnav{
-  background-color:gray;
+  background-color:#2a475e;
 }
 
 body {
