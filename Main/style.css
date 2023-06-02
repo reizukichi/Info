@@ -59,3 +59,11 @@ button {
 .padder {
   padding: 40px;
 }
+.games{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: center;
+}
+.topnav{
+  background-color:gray;
+}
