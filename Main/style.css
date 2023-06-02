@@ -4,6 +4,7 @@ nav {
   width: 100vw;
 
   margin-top: -40px;
+  padding-top: 20px;
 }
 
 nav > ul {
@@ -37,7 +38,8 @@ body {
   margin: 30px;
   width:80%;
 
-  padding-top: 40px;
+  border: 2px solid grey;
+  background-color: #f5f5f5;
 }
 
 .game > img {
@@ -52,4 +54,8 @@ body {
 
 button {
   
+}
+
+.padder {
+  padding: 40px;
 }
