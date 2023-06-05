@@ -65,14 +65,14 @@ nav > ul > li > a > img {
   padding: 40px;
 }
 
-.games{
+.games {
   display:flex;
   flex-wrap:wrap;
   justify-content: center;
   width: 100%;
 }
 
-.topnav{
+.topnav {
   background: rgb(23,26,33);
   background: radial-gradient(circle, rgba(23,26,33,1) 22%, rgba(55,67,84,1) 100%);
 }
