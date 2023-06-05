@@ -7,7 +7,7 @@ nav {
   background-color: white;
   position: fixed;
   width: 100vw;
-
+  height: 75px;
   margin-top: -40px;
   padding-top: 20px;
 }
@@ -32,6 +32,11 @@ nav > ul > li:not(.nicht-animieren):hover {
   background-color: lightslategray; 
   color:white;
 } 
+
+nav > ul > li > a > img {
+  height: 50px;
+  margin-top: -20px;
+}
 
 .game {
   display: flex;
